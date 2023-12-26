@@ -1,1 +1,1 @@
-gem 'faraday', '~> 0'
+gem 'github-pages', '226', group: :jekyll_plugins
